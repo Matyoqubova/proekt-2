@@ -16,6 +16,7 @@ let haftaKuni = [
 ];
 let oy = [
   "Yanvar",
+   "Yanvar",
   "Fev",
   "Mart",
   "Apr",
@@ -82,4 +83,5 @@ function black() {
 function blue() {
   let doc = document.getElementById("box")
   doc.style.backgroundColor = "blue"
+
 }
